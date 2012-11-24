@@ -1,0 +1,8 @@
+*.sln
+*.pidb
+*.userprefs
+*.user
+*.suo
+obj
+bin
+*.bak
